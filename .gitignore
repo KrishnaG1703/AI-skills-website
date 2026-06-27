@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Large PNG originals kept locally only — the live site uses the optimized .webp versions
+assets/*.png
